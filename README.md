@@ -12,7 +12,7 @@ Bridging the gap between creative art and real-time engineering. Specializing in
 * 🏆 **Awards:** 
   * 🥇 *1st Place* — IOSD Winterlympics International Hackathon
   * 🏆 *Best AR/VR Project* — Wave 2024 Exhibition (SRM IST)
-* 🌐 **Portfolio:** [farhan472003.wixstudio.com/techart](https://farhan472003.wixstudio.com/techart)
+* 🌐 **Portfolio:** [[farhan472003.wixstudio.com/techart](https://farhantechart.vercel.app/)]([https://farhan472003.wixstudio.com/techart](https://farhantechart.vercel.app/))
 
 ---
 

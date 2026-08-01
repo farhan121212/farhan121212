@@ -12,7 +12,7 @@ Bridging the gap between creative art and real-time engineering. Specializing in
 * 🏆 **Awards:** 
   * 🥇 *1st Place* — IOSD Winterlympics International Hackathon
   * 🏆 *Best AR/VR Project* — Wave 2024 Exhibition (SRM IST)
-* 🌐 **Portfolio:** [[https://farhantechart.vercel.app/]](https://farhantechart.vercel.app/))
+* 🌐 **Portfolio:** [https://farhantechart.vercel.app/](https://farhantechart.vercel.app/)
 
 ---
 
